@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://basmolmage.github.io/sitemap.html.gz
+Sitemap: https://basmolmage.github.io/app/sitemap.html.gz
+Sitemap: https://basmolmage.github.io/assets/sitemap.html.gz
+Sitemap: https://basmolmage.github.io/css/sitemap.html.gz
+Sitemap: https://basmolmage.github.io/includes/sitemap.html.gz
+Sitemap: https://basmolmage.github.io/item/sitemap.html.gz
+Sitemap: https://basmolmage.github.io/src/sitemap.html.gz
